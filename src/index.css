@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+label {
+  margin-right: 0.5em;
+}
+
+.form-group {
+  height: 35px;
+}
+input {
+  height:25px;
+  width:50px;
+}
